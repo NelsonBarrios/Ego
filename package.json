@@ -2,7 +2,7 @@
   "name": "evaluacion",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nelsonbarrios.github.io/ego",
+  "homepage": "https://nelsonbarrios.github.io/ego",
   "dependencies": {
     "@popperjs/core": "^2.9.2",
     "@testing-library/jest-dom": "^5.11.10",
