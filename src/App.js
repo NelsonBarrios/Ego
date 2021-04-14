@@ -10,7 +10,7 @@ function App() {
         <Navbar/>
       </Route>
       <Route path='/:id' exact>
-        <div>Ficha de modelo</div>
+        <div>Ficha de Modelo</div>
       </Route>
       </Switch>
     </Router>
