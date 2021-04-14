@@ -27,8 +27,6 @@ import Navbar from 'react-bootstrap/Navbar';
   const handleSelect = (eventKey) => alert(`selected ${eventKey}`);
     return(
         <div>
-          <h1>Acaa ESTOY</h1>
-          <ul>{models.map(item=>(<li key={item.id}>{item.name}</li>))}</ul>
         <Container >
           <Row>
               <Col sm={6} xs={6} md={4} lg={4}>
