@@ -6,11 +6,11 @@ function App() {
   return (
     <Router>
       <Switch>
-      <Route path='/:id' exact>
-        <div>Ficha de modelo</div>
-      </Route>
       <Route path='/' exact>
         <Navbar/>
+      </Route>
+      <Route path='/:id' exact>
+        <div>Ficha de modelo</div>
       </Route>
       </Switch>
     </Router>
